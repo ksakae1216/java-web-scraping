@@ -13,3 +13,17 @@ Web Scraping of Java
 ※リンク先がwikiで始まる
 
 ※hrefの方をキーワードにする
+
+
+## 環境
+
+Java 11.0.9
+PC   Mac
+
+## 実行方法
+
+workディレクトリ配下
+
+```
+java -cp target/classes work.App
+```

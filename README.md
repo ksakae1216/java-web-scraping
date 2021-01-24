@@ -25,5 +25,5 @@ PC   Mac
 workディレクトリ配下
 
 ```
-java -cp target/classes work.App
+java -cp target/classes work.App [探索したいワード]
 ```

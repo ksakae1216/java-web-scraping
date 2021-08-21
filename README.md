@@ -24,6 +24,19 @@ PC   Mac
 
 workディレクトリ配下
 
+### ビルド
+
 ```
-java -cp target/classes work.App
+mvn install
+```
+
+### 実行
+
+```
+java -jar ./target/work-1.0-jar-with-dependencies.jar キーワード
+```
+
+例　下記の場合は、30秒くらいかかります
+```
+java -jar ./target/work-1.0-jar-with-dependencies.jar 物流
 ```

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.1
+Built-By: sakae
+Build-Jdk: 11.0.9
+Class-Path: dependencies/jsoup-1.13.1.jar
+Main-Class: work.App
+
